@@ -30,8 +30,6 @@
     "paypal/module-braintree": "*",
     "paypal/module-braintree-core": "*",
     "paypal/module-braintree-graph-ql": "*",
-    "temando/module-shipping": "*",
-    "temando/module-shipping-m2": "*",
     "temando/module-shipping-remover": "*",
     "vertex/product-magento-module": "*",
     "vertex/module-tax": "*",
